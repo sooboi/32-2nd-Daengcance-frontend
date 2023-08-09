@@ -1,3 +1,7 @@
+[![Video Label](http://img.youtube.com/vi/S6aS-q1nbnk/0.jpg)](https://youtu.be/S6aS-q1nbnk)
+
+
+
 # 1. 팀 소개
 
 ![img](https://user-images.githubusercontent.com/103011139/169689069-28dab5c0-42d5-412c-a727-8041e04c51da.png)
